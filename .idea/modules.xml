@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ViceItems.client.iml" filepath="$PROJECT_DIR$/.idea/modules/ViceItems.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ViceItems.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ViceItems.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ViceItems.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ViceItems.test.iml" />
+    </modules>
+  </component>
+</project>
